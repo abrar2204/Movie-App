@@ -1,0 +1,9 @@
+scopeconfig:
+  - scope: node
+
+fileignoreconfig:
+  - filename: src/components/Pagination.js
+    checksum: a296a85535470ae8b0d08cdecb43bce88b77a1da157240f87ce1bf7ced7ee78a
+  - filename: src/components/Movies.js
+    checksum: 5d090df45cdd24538dcc395a1283ebdd5e640da92d960a21d63d9e4f57f1b1fd
+version: ""
